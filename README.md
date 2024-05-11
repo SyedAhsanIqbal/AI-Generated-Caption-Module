@@ -19,7 +19,7 @@ Get everything set up with these simple steps:
 git clone https://github.com/SyedAhsanIqbal/AI-Generated-Caption-Module.git
 cd AI-Generated-Caption-Module
 pip install tensorflow opencv-python-headless pillow numpy
-
+```
 
 ## How to Use
 
@@ -36,5 +36,6 @@ Clone this repository to your local machine to get started:
 ```bash
 git clone https://github.com/SyedAhsanIqbal/AI-Generated-Caption-Module.git
 cd AI-Generated-Caption-Module
+```
 
 
