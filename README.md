@@ -20,6 +20,7 @@ git clone https://github.com/SyedAhsanIqbal/AI-Generated-Caption-Module.git
 cd AI-Generated-Caption-Module
 pip install tensorflow opencv-python-headless pillow numpy
 
+
 ## How to Use
 
 This module is designed to be user-friendly and straightforward. Here’s how you can start adding dynamic captions to your videos:
